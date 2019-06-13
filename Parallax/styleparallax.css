@@ -1,0 +1,44 @@
+body
+{
+	margin:0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+
+section
+{
+	width: 100%;
+	height: 100vh;
+}
+
+section.sec1
+{
+	background: url(Images/crsal.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+section.sec2
+{
+	background: url(Images/crsal2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+section.sec3
+{
+	background: url(Images/crsal3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+section.sec4
+{
+	background: url(Images/crsal1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
